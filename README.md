@@ -7,4 +7,4 @@ On the Blue Team, we used **Kibana** as a tool for detection and migration of ma
 
 **Every action in this engagement only performed in Azure lab environment**
 
-# Network Topology
+![alt text](https://github.com/Jutinan/Red-vs-Blue/blob/main/capstone-network-topology.png)
